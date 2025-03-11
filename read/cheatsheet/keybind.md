@@ -28,7 +28,7 @@ parent: 一覽表
 
 | 設定檔 |
 | ----- |
-| [~/.config/kglobalshortcutsrc](https://github.com/samwhelp/garuda-kde-plasma-mokka-adjustment/blob/main/prototype/main/kde-config/locale/en_us/Breeze-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L51) |
+| [~/.config/kglobalshortcutsrc](https://github.com/samwhelp/garuda-kde-plasma-mokka-adjustment/blob/main/prototype/main/kde-config/locale/en_us/Mokka/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L51) |
 
 
 
